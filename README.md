@@ -1,0 +1,5 @@
+Command to connect to supabase
+
+curl "https://hkwnzzjbycemwuuhxgsn.supabase.co/rest/v1/cabins?select=*" ^
+-H "apikey: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imhrd256empieWNlbXd1dWh4Z3NuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTE0Mjg3OTgsImV4cCI6MjA2NzAwNDc5OH0.eVNBXmI0qjKWvKss3PcVYKxWOZsya_wEKKhQAiP307s" ^
+-H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imhrd256empieWNlbXd1dWh4Z3NuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTE0Mjg3OTgsImV4cCI6MjA2NzAwNDc5OH0.eVNBXmI0qjKWvKss3PcVYKxWOZsya_wEKKhQAiP307s"
